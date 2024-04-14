@@ -1,24 +1,44 @@
+
 ## Parth Malavia
 
 Dynamic software engineer with expertise in Python. Experienced in developing integrations for data movement across platforms and conducting comprehensive testing for optimal performance. Skilled in web app automation, API migration, and utility tool development. Excels in problem-solving and possesses a passion for exploring new technologies. Committed to delivering high-quality solutions and contributing to impactful projects.
 
+- 🔭 I’m currently working at Crest Data Systems as Software Engineer.
+
+<br/>
+
 **Skills**
 
-* Language: Python, Typescript, GoLang
-* Framwork: FastAPI, Django, ReactJS
-* Database: MySql
-* Virsion Control: Git, Bitbucket, Github
-* Other: Docker, Jira
+* Language:
+<a><img alt="Python" height="26px" src="python-5.svg" /></a>
+<a><img alt="TypeScript" height="26px" src="Typescript_logo_2020.svg" /></a>
+<a><img alt="GoLang" height="26px" src="golang-1.svg" /></a>
 
-**Education**
+* Framwork:
+<a><img alt="Django" height="26px" src="django-logo-negative.svg" /></a>
+<a><img alt="ReactJS" height="26px" src="react-2.svg" /></a>
+<a><img alt="FastApi" height="26px" src="fastapi-1.svg" /> FastApi</a>
 
-* L. D. Collage of Engineering
-    * B. E., Information Technology | GPA: 8.29
+* Database: 
+<a><img alt="MySQL" height="26px" src="mysql-logo.svg" /></a>
+
+* Virsion Control:
+<a><img alt="Git" height="26px" src="git-icon.svg" /></a>
+<a><img alt="BitBucket" height="26px" src="bitbucket-icon.svg" /></a>
+<a><img alt="Github" height="26px" src="github.svg" /></a>
+
+* Other:
+<a><img alt="Docker" height="26px" src="docker-4.svg" /></a>
+<a><img alt="JIRA" height="26px" src="jira-3.svg" /></a>
+
+<br/>
 
 **Certifications**
 
 * Machine Learning by Stanford University-Coursera
 * Problem solving by HackerRank
+
+<br/>
 
 **Links**
 
